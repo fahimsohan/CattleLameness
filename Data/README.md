@@ -1,5 +1,4 @@
-Cattle Lameness Detection Dataset (Derived from YouTube Videos)
-Overview
+Cattle Lameness Detection Dataset (Derived from YouTube Videos) Overview
 
 This dataset was created for research on cattle lameness detection using deep learning. The data were derived from publicly available YouTube videos. No full original videos are included; only short clips, extracted frames, and annotations used in our research are provided.
 
@@ -19,7 +18,7 @@ The dataset is intended for research and educational purposes only.
 
 Users must not redistribute the original YouTube videos.
 
-Citation of the original YouTube videos is recommended if possible.
+Citation of the original YouTube videos is recommended whenever possible.
 
 Ethical Statement
 
