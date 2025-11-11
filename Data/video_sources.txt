@@ -1,1 +1,32 @@
+# Cattle Lameness Detection Dataset - Original YouTube Video Sources (Partial List)
+# These publicly available YouTube videos were used to derive the dataset clips and frames.
+# No full videos are redistributed. Only short portions were used for research purposes.
+# Date added: 2025-11-11
 
+## Lame Cattle Videos
+1. https://www.youtube.com/watch?v=NMfoeqsbSa0
+2. https://youtube.com/shorts/CXi6rtvqvEU?si=9pS94qzNq6z5rRiM
+3. https://youtube.com/shorts/-pFmPSLWQO4?si=wawJh1QVbERKStN_
+4. https://youtube.com/shorts/7TSo4g9yeS8?si=qGEdZcSFpjRRYvsq
+5. https://youtube.com/shorts/EuQ06yYNh70?si=PR8O2NVB7riYrC3M
+6. https://youtu.be/pLa-thOWK5E?si=UOArs_xTLEAIV5UC
+7. https://youtu.be/RXkYdPIVyrg?si=VSXM4UFg_sP1MKam
+8. https://youtube.com/shorts/fo8bdQteCGM?si=kl3zkNlQ4d8shYaF
+9. https://youtube.com/shorts/Qdl5ZvGOBp4?si=PY9eB-kBI9QrcT61
+10. https://youtube.com/shorts/c2xvLyejH2A?si=3jg96CKKCkv7dYC3
+
+## Normal Cattle Videos
+1. https://youtube.com/shorts/ntSw904m8rY?si=4gMggvi6Spq0o_zO
+2. https://youtu.be/icEm_s9Ku_Q?si=QMahMSnz3nKwptQK
+3. https://youtube.com/shorts/ntAGV4SQ0Fw?si=4IiZFH8c1jlbhxKW
+4. https://youtube.com/shorts/T408rP1Nlck?si=FeT0jGsagwYbpvZl
+5. https://youtu.be/4PF_-QHZ5rM?si=G-9htBNOI9ikZBjb
+6. https://youtube.com/shorts/sVViydUNkdE?si=DGpVAdNsqoFGZlHE
+7. https://youtu.be/4pm4UMxkm90?si=_VD7pDdWR3DOhkji
+8. https://youtu.be/MK09R0CK3sE?si=tGOusRjliRFO9VTq
+9. https://youtube.com/shorts/ntAGV4SQ0Fw?si=1KqB9frbi08wIrYC
+10. https://youtu.be/izzguC1uoWI?si=YeUcDsIgZ78rgm6w
+
+# Note:
+# - This is a partial list; additional video sources may be added later as they are recovered.
+# - Some videos may become unavailable over time if removed or made private by the uploader.
