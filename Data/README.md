@@ -2,6 +2,9 @@
 
 This dataset was created for research on cattle lameness detection using deep learning. The data were derived from publicly available YouTube videos. No full original videos are included; only short clips, extracted frames, and annotations used in our research are provided.
 
+### **Original Video Sources**
+The original YouTube links used to derive this dataset are listed in the file **`video_sources.txt`**.
+
 ### Contents
 - lame/ – Short video segments or frames labeled as lame.
 - normal/ – Short video segments or frames labeled as normal.
