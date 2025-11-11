@@ -28,5 +28,5 @@
 10. https://youtu.be/izzguC1uoWI?si=YeUcDsIgZ78rgm6w
 
 # Note:
-# - This is a partial list; additional video sources may be added later as they are recovered.
-# - Some videos may become unavailable over time if removed or made private by the uploader.
+- This is a partial list; additional video sources may be added later as they are recovered.
+- Some videos may become unavailable over time if removed or made private by the uploader.
